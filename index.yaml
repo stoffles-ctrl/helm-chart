@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  docker-compose:
+  - apiVersion: v1
+    created: "2022-05-12T10:52:27.84374708Z"
+    description: A generated Helm Chart for docker-compose from Skippbox Kompose
+    digest: fbca8039fecaf723b52253f55bb20c95120a0ce0955cd621f85172906b0d7c1b
+    keywords:
+    - docker-compose
+    name: docker-compose
+    urls:
+    - https://github.com/stoffles-ctrl/helm-chart/docker-compose-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-05-12T10:52:27.842690311Z"
